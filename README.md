@@ -80,4 +80,4 @@ All experiments were done using the **RandomForestClassifier**, tested under 3 d
 
 ## Author
 
-Project built by [Your Name], focusing on practical and explainable fraud detection with tree-based models.
+Project built by [Eduard](https://www.linkedin.com/in/eduard-alexandru-kasaj-6217ab296/), focusing on practical and explainable fraud detection with tree-based models.
